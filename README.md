@@ -1,2 +1,5 @@
 # 42-libft
-LIBFT
+
+## Usage
+
+``make`` without the bonus function
